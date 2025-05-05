@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DarkMoneyDT
-- 👀 I’m interested in OPSEC
-- 🌱 I’m currently learning JavaScript  
-- 📫 How to reach me @darkmoneydt on twitter
+- 👋 I'm 
+- 👀 I’m interested in OPSEC, cybersecurity, and world building
+- 🌱 I’m currently using JSON  
+- 📫 send a message here 
 
 <!---
 DarkMoneyDT/DarkMoneyDT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
