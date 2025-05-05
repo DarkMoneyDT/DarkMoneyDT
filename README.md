@@ -1,4 +1,4 @@
-- 👋 I'm 
+
 - 👀 I’m interested in OPSEC, cybersecurity, and world building
 - 🌱 I’m currently using JSON  
 - 📫 send a message here 
